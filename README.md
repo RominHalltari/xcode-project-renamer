@@ -16,6 +16,9 @@ $ curl https://raw.githubusercontent.com/appculture/xcode-project-renamer/master
 # run script
 $ ./rename.swift "$OLD_PROJECT_NAME" "$NEW_PROJECT_NAME"
 
+# run pod install
+$ pod install
+
 # remove script
 $ rm rename.swift
 ```
